@@ -1,6 +1,6 @@
 # Shape-Calculator
 
-###Scientific Computing with Python, course offered by freecodecamp.org
+### Scientific Computing with Python, course offered by freecodecamp.org
 
 Practice with Class/Object Inheritance, rectangle and square instances with various methods
 
